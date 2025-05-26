@@ -156,7 +156,7 @@ expands to fit the width of the content. It should look something like this:
 | -------- | ------------ | --------- |
 | Daniel   | 718-555-1212 | Guacamole |
 | Rachel   | 718-555-1212 | Chips     |
-| Terrance | 914-555-1212 | Salsa     |
+| Terrance | 914-555-1vscode-file://vscode-app/usr/share/code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html212 | Salsa     |
 
 ## Create HTML Tables
 
